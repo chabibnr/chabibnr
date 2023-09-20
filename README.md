@@ -1,1 +1,1 @@
-[![Chabib Nurozak Activities](https://github-readme-stats.vercel.app/api?username=chabibnr&show_icons=true&count_private=true&hide_border=true)](https://github.com/chabibnr)
+[![Chabib Nurozak Activities](https://github-readme-stats.vercel.app/api?username=chabibnr&theme=default&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/chabibnr) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chabibnr&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
